@@ -1,0 +1,68 @@
+
+developer role
+- davion, yong jun
+-- marketplace web
+
+ji hui
+- main: AWS develop + monitor
+- 2nd: android market + CRM
+
+CRM, Saas? 
+
+
+native
+1 native DOM - online only
+2 flexible
+3 html + js
+4 less memory usage
+5 performance normal
+6 remain JQuery
+7 Nomrla SEO
+
+React
+1 Virtual DOM - Offline support
+2 life cycle
+3 component-driven development
+4 more memory usage
+5 performance better
+6 better remove jquery
+7 SEO friendly?
+inactive
+1 react native - future need
+
+
+
+react.js
+
+jquery - react.js
+
+
+
+
+coming task
+1 calander timeline
+2 seprate seller app & buyer app
+3 new layout
+4 seo coding
+5 google analytic + fb pixel collect users action - fb sdk
+6 reconstruct universal applink - recontruct cz link share is not current address, link powerful decrease
+  - share.timev 
+  - SEO address must able to recontruct to link
+7 Move to AWS
+  - third parties - 90 days, free, decrease dependancy.
+8 
+
+
+
+
+branch io,  process then use, waste time, buy button redirect back, branch io consider no avertisment....
+
+
+rate counting, uncount - either remain 0, or 5 star if less then 5 or 1 user
+
+
+
+
+
+upload service - 
+- option - schedule 
